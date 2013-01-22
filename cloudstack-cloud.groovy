@@ -1,7 +1,6 @@
 /***************
- * Cloud configuration file for the Amazon ec2 cloud. Uses the default jclouds-based cloud driver.
- * See org.cloudifysource.dsl.cloud.Cloud for more details.
- * @author barakme
+ * Cloud configuration file for the CloudStack cloud. Uses the default jclouds-based cloud driver.
+ * @author Noel King
  *
  */
 
